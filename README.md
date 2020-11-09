@@ -1,43 +1,5 @@
 ![](https://res.cloudinary.com/cozyplace/image/upload/v1604910396/Captura1_tikw44.png)
 
-![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
+### Github Stats
 
-```python
-class RafnixG:
-
-    def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
-        self.web = 'https://rafnixg.dev'
-        self.twitter = '@rafnixg'
-        self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
-            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
-        }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
-
-    def __str__(self):
-        return self.name
-
-
-if __name__ == '__main__':
-    me = RafnixG()
-
-
-```
-## Get in touch
-
-- Twitter: https://twitter.com/rafnixg
-- Personal Site: https://rafnixg.dev
-
-## Latest Posts (Spanish)
-
-
-- [🐍 Entornos virtuales en Python usando Pipenv](https://rafnixg.dev/entornos-virtuales-en-python-usando-pipenv/)
-
-
-⭐️ From [rafnixg](https://github.com/rafnixg)`
+[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
