@@ -25,6 +25,7 @@ Computer engineer specialized in web development, I am very organized and attent
 ### Github Stats
 
 ![Orlando Castañeda github stats](https://github-readme-stats.vercel.app/api?username=orlandCasta&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlandCasta)](https://github.com/orlandCasta/github-readme-stats)
 
 ### Github Repos
@@ -40,6 +41,3 @@ Computer engineer specialized in web development, I am very organized and attent
 <a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
-
-
-⭐️ From [@anandmainali](https://github.com/anandmainali)
