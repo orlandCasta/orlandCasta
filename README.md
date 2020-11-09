@@ -1,5 +1,5 @@
 ## Hi, I'm Rafnix
-![](https://res.cloudinary.com/cozyplace/image/upload/v1604909988/Captura2_lhsuls.png)
+![](https://res.cloudinary.com/cozyplace/image/upload/v1604910396/Captura1_tikw44.png)
 
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 
