@@ -24,7 +24,7 @@ Computer engineer specialized in web development, I am very organized and attent
 
 ### Github Stats
 
-[![Orlando Castañeda GitHub Stats](https://github-readme-stats.vercel.app/api?username=orlandCasta&show_icons=true&count_private=true)](https://github.com/orlandCasta)
+![Orlando Castañeda github stats](https://github-readme-stats.vercel.app/api?username=orlandCasta&show_icons=true)
 
 ### Github Repos
 
