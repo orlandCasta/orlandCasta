@@ -30,8 +30,8 @@ Computer engineer specialized in web development, I am very organized and attent
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandCasta&repo=javascript-profesional&show_owner=true)](https://github.com/orlandCasta/javascript-profesional)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandCasta&repo=call-api-github&show_owner=true)](https://github.com/orlandCasta/call-api-github)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
