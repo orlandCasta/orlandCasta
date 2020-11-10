@@ -4,7 +4,7 @@
     <a href="mailto:orlandos.casta@gmail.com">
       <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/luis-orlando-casta%C3%B1eda-espinoza-758426161/">
+    <a href="https://www.linkedin.com/in/orlando-casta%C3%B1eda-758426161/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://github.com/orlandCasta">
