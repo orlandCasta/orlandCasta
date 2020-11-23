@@ -40,37 +40,37 @@ Computer engineer specialized in web development, I am very organized and attent
 
 
 <p>
-    <a href="mailto:orlandos.casta@gmail.com">
+    <a>
       <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
     </a>
-    <a href="https://www.linkedin.com/in/luis-orlando-casta%C3%B1eda-espinoza-758426161/">
+    <a>
       <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     </a>
-    <a href="https://github.com/orlandCasta">
+    <a>
       <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     </a>
-    <a href="https://www.facebook.com/orlando.castaneda.75">
+    <a>
       <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/orlando_cast/?hl=es-la">
+    <a>
       <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     </a>
-    <a href="https://twitter.com/orlandCasta">
+    <a>
       <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCUoh4plhdSvcSChUD0kZK2w?view_as=subscriber">
+    <a>
       <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCUoh4plhdSvcSChUD0kZK2w?view_as=subscriber">
+    <a>
       <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCUoh4plhdSvcSChUD0kZK2w?view_as=subscriber">
+    <a>
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCUoh4plhdSvcSChUD0kZK2w?view_as=subscriber">
+    <a>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCUoh4plhdSvcSChUD0kZK2w?view_as=subscriber">
+    <a>
       <img src="https://img.shields.io/badge/heroku%20-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
     </a>
   </p>
