@@ -83,5 +83,5 @@ Computer engineer specialized in web development, I am very organized and attent
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandCasta&repo=javascript-profesional&show_owner=true)](https://github.com/orlandCasta/javascript-profesional)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandCasta&repo=call-api-github&show_owner=true)](https://github.com/orlandCasta/call-api-github)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandCasta&repo=CozyPlace&show_owner=true)](https://github.com/orlandCasta/CozyPlace)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandCasta&repo=platzi-badges-application&show_owner=true)](https://github.com/orlandCasta/platzi-badges-application)
