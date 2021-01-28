@@ -32,7 +32,7 @@
 
 <div>
  <p>
-Computer engineer specialized in web development, I am very organized and attentive, I have experience mainly in areas of IT support and web development, more focused on backend development with JavaScript with relational and non-relational databases, packaging and version control systems like git and github, within frontend frameworks like Bootstrap for layout and use of technologies like react.js. I am a person who never stops learning, extremely self-taught and passionate about programming, my main ambitions are to learn and excel in large projects, in the areas that I am most passionate about, areas such as web development and information security.
+Computer engineer specialized in web development, organized and attentive with experience mainly in areas of web development and IT support, more focused on full stack development with JavaScript node.js, relational databases and non-relational, packaging and version control systems like git and github, within frontend frameworks like bootstrap for layout and use of technologies such as react.js. never stop learning, extremely self-taught and passionate about programming.
 </p>
 </div>
  
