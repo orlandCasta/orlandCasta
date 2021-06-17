@@ -83,8 +83,3 @@ Computer engineer specialized in web development and IT support, focused on Back
 ![Orlando Castañeda github stats](https://github-readme-stats.vercel.app/api?username=orlandCasta&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlandCasta)](https://github.com/orlandCasta/github-readme-stats)
-
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandCasta&repo=CozyPlace&show_owner=true)](https://github.com/orlandCasta/CozyPlace)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandCasta&repo=platzi-badges-application&show_owner=true)](https://github.com/orlandCasta/platzi-badges-application)
