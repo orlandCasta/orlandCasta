@@ -32,7 +32,7 @@
 
 <div>
  <p>
-Computer engineer specialized in web development, organized and attentive with experience mainly in areas of web development and IT support, more focused on full stack development with JavaScript node.js, relational databases and non-relational, packaging and version control systems like git and github, within frontend frameworks like bootstrap for layout and use of technologies such as react.js. never stop learning, extremely self-taught and passionate about programming.
+Computer engineer specialized in web development and IT support, focused on Backend development with NodeJS, and non-relational databases such as MongoDB and relational databases such as PostgresSQL, deployments in cloud instances with security standards, knowledge in Frontend with React as the main technology.
 </p>
 </div>
  
